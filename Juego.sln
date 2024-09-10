@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Juego", "Juego\Juego.csproj", "{18C3D05F-7721-4C4B-BF3C-A892BD816403}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{0CFE11B5-0A04-4A15-885E-7D8B62FED077}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\OneDrive\Imágenes\bg-palabras.jpg = ..\..\..\OneDrive\Imágenes\bg-palabras.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18C3D05F-7721-4C4B-BF3C-A892BD816403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18C3D05F-7721-4C4B-BF3C-A892BD816403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18C3D05F-7721-4C4B-BF3C-A892BD816403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18C3D05F-7721-4C4B-BF3C-A892BD816403}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C0B779B-B6E3-4B82-90A3-9DC38D9AD780}
+	EndGlobalSection
+EndGlobal

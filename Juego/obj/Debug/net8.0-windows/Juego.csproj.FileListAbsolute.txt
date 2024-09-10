@@ -1,0 +1,17 @@
+C:\Users\veram\source\repos\Juego\Juego\bin\Debug\net8.0-windows\Juego.exe
+C:\Users\veram\source\repos\Juego\Juego\bin\Debug\net8.0-windows\Juego.deps.json
+C:\Users\veram\source\repos\Juego\Juego\bin\Debug\net8.0-windows\Juego.runtimeconfig.json
+C:\Users\veram\source\repos\Juego\Juego\bin\Debug\net8.0-windows\Juego.dll
+C:\Users\veram\source\repos\Juego\Juego\bin\Debug\net8.0-windows\Juego.pdb
+C:\Users\veram\source\repos\Juego\Juego\obj\Debug\net8.0-windows\Juego.Form1.resources
+C:\Users\veram\source\repos\Juego\Juego\obj\Debug\net8.0-windows\Juego.csproj.GenerateResource.cache
+C:\Users\veram\source\repos\Juego\Juego\obj\Debug\net8.0-windows\Juego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veram\source\repos\Juego\Juego\obj\Debug\net8.0-windows\Juego.AssemblyInfoInputs.cache
+C:\Users\veram\source\repos\Juego\Juego\obj\Debug\net8.0-windows\Juego.AssemblyInfo.cs
+C:\Users\veram\source\repos\Juego\Juego\obj\Debug\net8.0-windows\Juego.csproj.CoreCompileInputs.cache
+C:\Users\veram\source\repos\Juego\Juego\obj\Debug\net8.0-windows\Juego.dll
+C:\Users\veram\source\repos\Juego\Juego\obj\Debug\net8.0-windows\refint\Juego.dll
+C:\Users\veram\source\repos\Juego\Juego\obj\Debug\net8.0-windows\Juego.pdb
+C:\Users\veram\source\repos\Juego\Juego\obj\Debug\net8.0-windows\Juego.genruntimeconfig.cache
+C:\Users\veram\source\repos\Juego\Juego\obj\Debug\net8.0-windows\ref\Juego.dll
+C:\Users\veram\source\repos\Juego\Juego\obj\Debug\net8.0-windows\Juego.Properties.Resources.resources
